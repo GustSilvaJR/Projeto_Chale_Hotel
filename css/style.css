@@ -182,6 +182,7 @@ h1{
     margin-left: 10px;
     margin-bottom: 10px;
     color: #6e672c;
+    background: url('../assets/ornamento.png')no-repeat right center;
 }
 
 #conteudo2 ul#beneficios a p{
